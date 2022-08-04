@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: d315caeb25de2f646b871095c9e5572e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Robot Reavers
+  fontNames:
+  - Robot Reavers
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c7076bc46f6f4844ca214ee7684080c8, type: 3}
+  - {fileID: 12800000, guid: bf2620f7917dc1f469b79195e28ab579, type: 3}
+  - {fileID: 12800000, guid: c9b6ad0f2c015b74bb78ebb335e2261a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
